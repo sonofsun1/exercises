@@ -1,0 +1,1 @@
+Repository with solutions to exercises from Codewars, Exercism and LeetCode
